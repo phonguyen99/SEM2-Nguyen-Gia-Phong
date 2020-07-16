@@ -1,6 +1,6 @@
-<?php //login.php
-    $hn ='localhost'; //hostname - localhost
-    $un ='root'; //username -change this
-    $pw =''; //password - change this
-    $db ='publications'; //database name
+<?php
+$hn = 'http://localhost/';
+$un = 'root';
+$pw = '';
+$db = 'publication'; //database name
 ?>
